@@ -1,6 +1,6 @@
 # PLUTO: Probabilistic Learning Using Tag-based Ordering
 
-![demo](https://raw.githubusercontent.com/avengerandy/PLUTO/master/algorithm.png)
+![demo](https://raw.githubusercontent.com/avengerandy/PLUTO/master/demo.png)
 
 [try_demo](https://avengerandy.github.io/PLUTO/demo.html)
 
